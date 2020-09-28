@@ -17,6 +17,11 @@ import { HomeComponent } from './views/home/home.component';
 import { ProductCrudComponent } from './views/product-crud/product-crud.component';
 import { ProductCreateComponent } from './components/product/product-create/product-create.component';
 
+
+https://www.cod3r.com.br/courses/take/angular-9-essencial/lessons/11728418-navegar-para-tela-de-criar-produtos
+
+
+
 @NgModule({
   declarations: [
     AppComponent,
